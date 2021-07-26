@@ -4,7 +4,7 @@ A flow apex action to get List for Loop.
 ### Input/Output(s) for action
 |Parameter	               |Use for Input	   |Use for Output	   |Description 
 |-|-|-|-|
-| Number of Elements | ✔ |  input is number of elements in the List   |
+| Number of Elements | ✔ ||  input is number of elements in the List   |
 | Output  List of Integer|  | ✔ | Output List with elements |
 
 Example
